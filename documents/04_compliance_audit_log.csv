@@ -1,0 +1,16 @@
+audit_id,date,area_audited,finding,severity,status
+AUD-2024-001,2024-01-15,Network Security,Missing encryption on backup database server,HIGH,Open
+AUD-2024-002,2024-01-20,Vendor Management,Three vendors lack current compliance certifications,MEDIUM,Open
+AUD-2024-003,2024-02-01,Access Control,45 terminated employees still have VPN access,CRITICAL,Open
+AUD-2024-004,2024-02-08,Financial Controls,Missing quarterly audit trail for procurement transactions,MEDIUM,Closed
+AUD-2024-005,2024-02-15,Disaster Recovery,Backup systems not tested in 18 months,HIGH,Closed
+AUD-2024-006,2024-03-01,Data Privacy,Customer PII found in unencrypted log files,CRITICAL,Closed
+AUD-2024-007,2024-03-10,Compliance Monitoring,Regulatory filing deadline tracking system not updated,MEDIUM,Open
+AUD-2024-008,2024-03-20,Personnel Security,Five employees lack required background checks,HIGH,Closed
+AUD-2024-009,2024-04-05,Network Operations,SLA breach: Average incident response time 4.2 hours vs. 2-hour target,MEDIUM,Open
+AUD-2024-010,2024-04-12,Vendor Management,Vendor contracts lack defined exit procedures,MEDIUM,Closed
+AUD-2024-011,2024-05-01,Regulatory Compliance,Quarterly compliance report Q4 2023 submitted 3 days late,LOW,Closed
+AUD-2024-012,2024-05-15,Contract Management,Master service agreement not reviewed in 3 years,MEDIUM,Open
+AUD-2024-013,2024-06-01,Third-Party Risk,Critical vendor dependency risk on single NOC vendor,HIGH,Closed
+AUD-2024-014,2024-06-10,Incident Management,Major outage root cause analysis incomplete after 45 days,HIGH,Open
+AUD-2024-015,2024-06-20,Business Continuity,BCP plan not aligned with regulatory requirements amendment,MEDIUM,Open

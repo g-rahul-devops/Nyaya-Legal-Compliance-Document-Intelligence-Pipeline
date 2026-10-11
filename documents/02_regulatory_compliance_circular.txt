@@ -1,0 +1,121 @@
+REGULATORY COMPLIANCE CIRCULAR
+Document ID: RFC-2024-Q3
+Version: 1.0
+Effective Date: July 1, 2024
+
+From: Securities and Telecom Regulatory Commission (STRC)
+To: All Licensed Telecom Service Providers
+Date: June 15, 2024
+
+RE: Mandatory Quarterly Compliance Reporting Requirement
+
+Dear Licensee,
+
+This circular sets forth mandatory compliance reporting requirements for all 
+telecom service providers operating under our jurisdiction.
+
+===== 1. QUARTERLY COMPLIANCE REPORT REQUIREMENT =====
+
+1.1 Submission Mandate
+Every licensed telecom service provider must submit a comprehensive Quarterly 
+Compliance Report (QCR) to the Securities and Telecom Regulatory Commission 
+(STRC) by the 15th day of the month following each fiscal quarter:
+
+- Q1 (Jan-Mar): Submit by April 15th
+- Q2 (Apr-Jun): Submit by July 15th  <<< NEXT DEADLINE: July 15, 2024
+- Q3 (Jul-Sep): Submit by October 15th
+- Q4 (Oct-Dec): Submit by January 15th (following year)
+
+1.2 Content Requirements
+Each QCR must include:
+
+(a) Network Compliance Status - uptime percentage, incident count by severity, 
+    network outage durations exceeding 15 minutes
+    
+(b) Service Quality Metrics - average call drop rate, network congestion hours, 
+    customer complaint resolution time
+    
+(c) Regulatory Findings - any compliance violations identified internally, 
+    status of remediation efforts, audit findings from the previous quarter
+    
+(d) Personnel Changes - any changes to Chief Compliance Officer, General Counsel, 
+    or Chief Technology Officer positions
+    
+(e) Infrastructure Investments - capital expenditure on network upgrades, 
+    security systems, and disaster recovery
+    
+(f) Incident Log - all critical security incidents, data breaches, or customer 
+    data access anomalies
+
+1.3 Submission Method
+Reports must be submitted electronically via the STRC Compliance Portal 
+(https://compliance.strc.gov.in) using the QCR XML schema v2.1. Hard copies 
+are optional but recommended for audit trail purposes.
+
+1.4 Certification
+The QCR must be signed and certified by the Chief Compliance Officer (or 
+General Counsel if no dedicated CCO) affirming that:
+- The information is accurate and complete to the best of their knowledge
+- Internal controls have been in place during the reporting period
+- All identified violations have been disclosed
+
+===== 2. PENALTIES FOR NON-COMPLIANCE =====
+
+2.1 Late Submission Penalties
+- Submission 1-5 days late: Administrative fine of INR 50,000 per day
+- Submission 6-15 days late: Administrative fine of INR 100,000 per day
+- Submission more than 15 days late: Administrative fine of INR 500,000 plus 
+  show-cause notice for license suspension
+
+2.2 Incomplete Submission
+If a QCR is found to be incomplete or materially inaccurate:
+- First instance: Notice of deficiency; 7 days to resubmit. Fine of INR 100,000.
+- Second instance within 12 months: Fine of INR 250,000 and formal audit.
+- Third instance within 24 months: Fine of INR 500,000 and license review.
+
+2.3 False Certification
+If the signing officer knowingly certifies false information:
+- Civil penalty: INR 5,000,000 or 5 years imprisonment, or both
+- License suspension for 6 months to 2 years
+- Mandatory replacement of Chief Compliance Officer
+
+2.4 Recurring Violation Pattern
+If a licensee fails to submit three consecutive QCRs on time, or submits three 
+deficient reports in a 24-month period, the STRC shall initiate formal 
+enforcement proceedings leading to potential license revocation.
+
+===== 3. EXEMPTIONS AND SPECIAL CIRCUMSTANCES =====
+
+3.1 Force Majeure
+Licensees experiencing genuine force majeure events (natural disasters, government 
+intervention, state of emergency) may request a one-time extension of up to 
+14 days. Request must be filed within 48 hours of the event with supporting 
+documentation.
+
+3.2 Bankruptcy or Restructuring
+Licensees undergoing court-ordered restructuring or bankruptcy may request a 
+deferment of QCR submission. Deferment requests must be filed with court orders 
+attached; STRC will grant deferment of not exceeding 45 days.
+
+===== 4. EFFECTIVE DATE =====
+
+This circular takes effect immediately for all QCRs due on or after July 15, 
+2024. Licensees are advised to implement necessary systems and processes 
+without delay.
+
+For queries or clarification, contact:
+STRC Compliance Division
+Email: compliance@strc.gov.in
+Phone: +91-11-2345-6789
+
+Yours sincerely,
+
+Dr. Rajesh Kumar
+Director, Compliance Division
+Securities and Telecom Regulatory Commission
+
+Attachment A: QCR XML Schema v2.1
+Attachment B: Sample QCR Template
+Attachment C: Penalty Computation Calculator
+
+END OF DOCUMENT

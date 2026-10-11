@@ -1,0 +1,105 @@
+{
+  "filing_tracker_metadata": {
+    "document_id": "REG-FILING-TRACKER-2024-001",
+    "version": "2.3",
+    "effective_date": "September 1, 2024",
+    "last_updated": "October 8, 2024",
+    "reference_date": "October 11, 2024",
+    "description": "Regulatory Filing Due Date Tracker - All Jurisdictions"
+  },
+  "filings": [
+    {
+      "filing_id": "FIL-2024-0341",
+      "jurisdiction": "STRC (Securities & Telecom Regulatory Commission)",
+      "description": "Q3 2024 Quarterly Compliance Report - Network uptime, service quality metrics, compliance findings",
+      "due_date": "2024-10-15",
+      "status": "Due within 30 days",
+      "days_until_due": 4,
+      "notes": "OVERDUE by 4 days as of reference date (Oct 11, 2024). Requires certification by Chief Compliance Officer."
+    },
+    {
+      "filing_id": "FIL-2024-0342",
+      "jurisdiction": "Ministry of Communications",
+      "description": "H1 2024 Infrastructure Investment Report - Capital expenditure on network upgrades and security",
+      "due_date": "2024-09-30",
+      "status": "Overdue",
+      "days_overdue": 11,
+      "notes": "CRITICAL: Overdue by 11 days. Penalty: INR 50,000/day = INR 550,000. Submit immediately."
+    },
+    {
+      "filing_id": "FIL-2024-0343",
+      "jurisdiction": "Data Protection Authority (DPA)",
+      "description": "Data Incident Report - Any data breaches or customer PII access anomalies in Q3 2024",
+      "due_date": "2024-10-31",
+      "status": "Due within 30 days",
+      "days_until_due": 20,
+      "notes": "Due by Oct 31, 2024. Currently no major incidents to report per Audit AUD-2024-006 closure."
+    },
+    {
+      "filing_id": "FIL-2024-0344",
+      "jurisdiction": "Ministry of Labour & Employment",
+      "description": "Employee Background Check Compliance Report - Verification of background screening completion",
+      "due_date": "2024-11-15",
+      "status": "Due within 30 days",
+      "days_until_due": 35,
+      "notes": "Due by Nov 15, 2024. Flag: 5 employees identified in audit AUD-2024-008 currently lack required checks."
+    },
+    {
+      "filing_id": "FIL-2024-0345",
+      "jurisdiction": "National Telecom Authority (NTA)",
+      "description": "Annual Network Performance Report - Aggregate uptime statistics, incident trends, remediation actions",
+      "due_date": "2025-01-15",
+      "status": "Not urgent",
+      "days_until_due": 96,
+      "notes": "Due by Jan 15, 2025. Preparatory work should begin in November 2024."
+    },
+    {
+      "filing_id": "FIL-2024-0346",
+      "jurisdiction": "RBI (Reserve Bank of India) - Financial Transactions",
+      "description": "Q3 2024 Cross-Border Payment Transaction Report - Remittances, wire transfers, international settlements",
+      "due_date": "2024-10-20",
+      "status": "Due within 30 days",
+      "days_until_due": 9,
+      "notes": "Due by Oct 20, 2024. Escalate to Finance & Compliance teams immediately."
+    },
+    {
+      "filing_id": "FIL-2024-0347",
+      "jurisdiction": "Insurance Regulator (IRDAI)",
+      "description": "Cyber Insurance Coverage Update - Current policies, coverage limits, renewal dates for liability and cyber risks",
+      "due_date": "2024-12-31",
+      "status": "Not urgent",
+      "days_until_due": 81,
+      "notes": "Due by Dec 31, 2024. Annual renewal required; coordinate with procurement on vendor bids."
+    },
+    {
+      "filing_id": "FIL-2024-0348",
+      "jurisdiction": "STRC",
+      "description": "Network Outage Incident Report - All major outages (>15 min) in Q3, root causes, remediation time",
+      "due_date": "2024-10-25",
+      "status": "Due within 30 days",
+      "days_until_due": 14,
+      "notes": "Due by Oct 25, 2024. At least one incident (incident #INC-2024-156) root cause analysis still incomplete per audit."
+    },
+    {
+      "filing_id": "FIL-2024-0349",
+      "jurisdiction": "Environmental Compliance Board",
+      "description": "Energy Efficiency & Emissions Report - Power consumption, carbon footprint, renewable energy usage percentage",
+      "due_date": "2025-03-31",
+      "status": "Not urgent",
+      "days_until_due": 171,
+      "notes": "Due by Mar 31, 2025. Preparatory data collection should start by Jan 2025."
+    }
+  ],
+  "summary": {
+    "total_filings": 9,
+    "overdue_count": 1,
+    "due_within_30_days": 4,
+    "not_urgent": 4,
+    "critical_actions": [
+      "IMMEDIATE: Submit H1 2024 Infrastructure Report (FIL-2024-0342) - 11 days overdue, penalty accruing",
+      "URGENT: Submit Q3 Quarterly Compliance Report (FIL-2024-0341) - deadline passed Oct 15",
+      "HIGH: Submit RBI Cross-Border Payment Report (FIL-2024-0346) by Oct 20",
+      "ACTION REQUIRED: Complete root cause analysis for incident #INC-2024-156 before submitting outage report"
+    ]
+  }
+}
